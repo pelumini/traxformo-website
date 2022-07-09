@@ -1,4 +1,5 @@
-import About from './About';
+import AboutUs from './AboutUs';
 import Masthead from './Masthead';
+import Member from './Member';
 
-export { Masthead, About };
+export { Masthead, AboutUs, Member };
