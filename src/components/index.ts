@@ -1,3 +1,4 @@
+import About from './About';
 import Masthead from './Masthead';
 
-export { Masthead };
+export { Masthead, About };
