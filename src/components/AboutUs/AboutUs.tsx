@@ -22,37 +22,37 @@ export const AboutUs: React.FC = () => {
           <Member
             id="szymon"
             name="Szymon"
-            socialId="@mrousavy"
+            socialId="@szymon2000"
             link="https://github.com/mrousavy"
           />
           <Member
             id="jacobi"
             name="Jacobi"
-            socialId="@mrousavy"
+            socialId="@jacobi-eldwell"
             link="https://github.com/mrousavy"
           />
           <Member
             id="roland"
             name="Roland"
-            socialId="@mrousavy"
+            socialId="@rolanddcoach"
             link="https://github.com/mrousavy"
           />
           <Member
             id="ade"
             name="Ade"
-            socialId="@mrousavy"
+            socialId="@ade-samuel"
             link="https://github.com/mrousavy"
           />
           <Member
             id="julie"
             name="Julie"
-            socialId="@mrousavy"
+            socialId="@julie-codes"
             link="https://github.com/mrousavy"
           />
           <Member
             id="sam"
             name="Sam"
-            socialId="@mrousavy"
+            socialId="@sam-gardener"
             link="https://github.com/mrousavy"
           />
         </div>

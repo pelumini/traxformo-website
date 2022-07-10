@@ -3,10 +3,9 @@
 @tailwind utilities;
 
 body {
-  /* background: black; */
+  background: black;
   font-family: SF Pro Display, SF Pro Icons, Arial, Helvetica,
     sans-serif 'Inter', sans-serif;
-  font-size: 16px;
-  line-height: 1.5;
+  line-height: 1.1;
   letter-spacing: 0em;
 }
